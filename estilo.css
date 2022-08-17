@@ -58,3 +58,29 @@ li a:hover {
   color: rgb(255, 0, 255);
   background: rgb(255, 255, 255);
 }
+#rick {
+  width: 10%;
+}
+.caixaRick {
+   position: absolute;
+   top: 45px;
+   background: yellow;
+   width: 90%;
+   height: 165px;
+   margin: 20px;
+   border-color: blueviolet;
+   border-width: 20px;
+   border-style: solid;
+   padding: 20px;
+   display: flex;
+   justify-content: center;
+}
+.caixaRick2 {
+ position: absolute;
+ top: 0px;
+ right: 0;
+ width: 300px;
+ height: 165px;
+ display: flex;
+ justify-content: end;
+}
